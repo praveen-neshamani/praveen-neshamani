@@ -112,29 +112,7 @@ print(me.motto())
 </div>
 
 ---
-## 🔥 TryHackMe Streak
 
-<div align="center">
-  <a href="https://tryhackme.com/p/R41DHX7">
-    <img src="https://assets.tryhackme.com/room-badges/973d9cb9571d61f806f9551dc06cb4e4.png" alt="TryHackMe 90-Day Streak Badge"/>
-  </a>
-</div>
----
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveen-neshamani&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=praveen-neshamani&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
-</div>
-
----
 
 ## 💼 Work Experience
 
