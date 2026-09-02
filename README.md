@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I%27m+Praveen+%F0%9F%91%8B;'Cyber+%7C+Full-Stack+%7C+Open+Source+Contributor+%7c;SOC+L1+Trainee+%26+CTF+Enthusiast;Top+4%25+on+TryHackMe" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I%27m+Praveen+%F0%9F%91%8B;'Cyber+%7C+Full-Stack+%7C+Open+Source+Contributor+%7c;SOC+L1+Trainee+%26+CTF+Enthusiast;Top+3%25+on+TryHackMe" alt="Typing SVG" />
   </a>
 </p>
 
@@ -47,7 +47,7 @@ class Praveen:
             "LLM APIs & Prompt Engineering"
         ]
 
-        self.fun_fact = "Top 4% on TryHackMe 🔐"
+        self.fun_fact = "Top 3% on TryHackMe 🔐"
 
     def motto(self):
         return "Break things ethically. Build things securely. 🛡️"
@@ -133,7 +133,7 @@ print(me.motto())
 
 | 🏆 | Achievement | Details |
 |:--:|:------------|:--------|
-| 🔐 | **TryHackMe — Top 4%** | Ranked in the top 4% globally across all active users on the TryHackMe platform |
+| 🔐 | **TryHackMe — Top 3%** | Ranked in the top 4% globally across all active users on the TryHackMe platform |
 | 🏛️ | **ISC2 Candidate** | Enrolled as an official ISC2 Candidate, pursuing globally recognised cybersecurity certification |
 | 🌐 | **IAENG Member** | Active member of the International Association of Engineers |
 | 🐞 | **SREC OWASP Chapter** | Core member of the Sri Ramakrishna Engineering College OWASP student chapter |
