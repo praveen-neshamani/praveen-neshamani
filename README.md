@@ -29,6 +29,7 @@ class Praveen:
         self.email      = "praveenneshamani@gmail.com"
         self.degree     = "B.E. Computer Science Engineering"
         self.college    = "Sri Ramakrishna Engineering College"
+        self.portfolio  = "https://www.praveen-neshamani.me/"
 
         self.stack = [
             "Python", "Java", "C",
