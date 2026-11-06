@@ -134,7 +134,7 @@ print(me.motto())
 
 | 🏆 | Achievement | Details |
 |:--:|:------------|:--------|
-| 🔐 | **TryHackMe — Top 3%** | Ranked in the top 4% globally across all active users on the TryHackMe platform |
+| 🔐 | **TryHackMe — Top 3%** | Ranked in the top 3% globally across all active users on the TryHackMe platform |
 | 🏛️ | **ISC2 Candidate** | Enrolled as an official ISC2 Candidate, pursuing globally recognised cybersecurity certification |
 | 🌐 | **IAENG Member** | Active member of the International Association of Engineers |
 | 🐞 | **SREC OWASP Chapter** | Core member of the Sri Ramakrishna Engineering College OWASP student chapter |
